@@ -5,8 +5,8 @@
 " Get out of Vi compatibility mode
 set nocompatible
 
-" Set shell to bash
-set shell=bash
+" Set shell to zsh
+set shell=zsh
 
 " Remember last 500 commands
 set history=500
